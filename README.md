@@ -13,7 +13,7 @@
 - Tools: Git, IntelliJ IDEA, VS Code  
 
 
-- 📫 How to reach me - aditityagiaditityagi815@gmail.com
+- 📫 How to reach me - aditityagiaditityagi815@gmail.com  and 
       https://www.linkedin.com/in/aditityagivats001/
   
 
