@@ -7,9 +7,9 @@
   Worked on **Unnat Bharat Abhiyan (UBA)** at IIT Delhi, focusing on rural development & technology initiatives.
 
 🛠️ Tech Stack:  
-- Programming: Java, C++, C  
-- Web: HTML, CSS, JavaScript, PHP  
-- Database: SQL  
+- Programming: Core Java, C++, C  
+- Web: HTML, CSS, JavaScript, React
+- Database: MySQL  
 - Tools: Git, IntelliJ IDEA, VS Code  
 
 
