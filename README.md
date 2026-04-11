@@ -8,7 +8,7 @@
 
 🛠️ Tech Stack:  
 - Programming: Core Java, C++, C  
-- Web: HTML, CSS, JavaScript, React , NODE.JS 
+- Web: HTML, CSS, JavaScript, React , node.js 
 - Database: MySQL  , MongoDb
 - Tools: Git, IntelliJ IDEA, VS Code  
 
