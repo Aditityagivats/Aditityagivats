@@ -6,7 +6,7 @@
   Intern at **Ministry of Education, Govt. of India (Bharatiya Bhasha Samiti)**  
   Worked on **Unnat Bharat Abhiyan (UBA)** at IIT Delhi, focusing on rural development & technology initiatives.
 
-🛠️ Tech Stack:  
+🛠️ Tech Stack-
 - Programming: Core Java, C++, C  
 - Web: HTML, CSS, JavaScript, React , node.js 
 - Database: MySQL  , MongoDb
